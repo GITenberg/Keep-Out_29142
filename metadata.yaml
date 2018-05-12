@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32063
     wikipedia: http://en.wikipedia.org/wiki/Fredric_Brown
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29142#Keep-Out
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-06-17'
 gutenberg_type: Text
